@@ -1,0 +1,3 @@
+template:info
+template:info/styles.css
+template:alert

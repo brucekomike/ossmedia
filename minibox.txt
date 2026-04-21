@@ -1,0 +1,7 @@
+template:minibox
+template:minibox/doc
+template:minibox/styles.css
+template:minibox-v
+template:minibox-v/doc
+template:minibox-ct
+template:minibox-ct/doc

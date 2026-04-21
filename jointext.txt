@@ -1,0 +1,6 @@
+Template:JoinText
+Template:JoinText/doc
+Template:JoinNavList
+Template:JoinNavList/doc
+Module:JoinText
+Module:JoinText/doc

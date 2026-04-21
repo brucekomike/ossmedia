@@ -1,0 +1,4 @@
+template:key press
+template:key press/doc
+template:key press/core
+template:key press/styles.css
